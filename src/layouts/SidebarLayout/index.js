@@ -1,14 +1,15 @@
 import React, {Component} from 'react';
 import './style.css';
 
-class NotFoundPage extends Component {
+class SidebarLayout extends Component {
     render() {
         return (
             <div>
-                <h1>404 NOT FOUND</h1>
+                sidebar
             </div>
         );
     }
+
 }
 
-export default NotFoundPage;
+export default SidebarLayout;
